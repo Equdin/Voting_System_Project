@@ -2,4 +2,4 @@ includes/db.php
 *.log
 .DS_Store
 __MACOSX/
-
+test_*.php
